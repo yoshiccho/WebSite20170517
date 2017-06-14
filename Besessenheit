@@ -1,0 +1,12 @@
+<div id="doc" class="markdown-body container-fluid"><h1 id="besessenheit">Besessenheit</h1><h2 id="概要">概要</h2><p>ジャンル　アクション<br>
+開発エンジン　Unity<br>
+開発期間　一か月<br>
+プラットフォーム　ＰＣ<br>
+ゲーム内容　相手に憑依してミッションを達成する</p><h2 id="自分の担当">自分の担当</h2><p>エフェクトとタイトル</p><p>UnityのShurikenを使いエフェクトを作りました。<br>
+血のエフェクト、炎の魔法、風の魔法、オーラなどのエフェクトを作りました。</p><p>タイトル画面<br>
+<img src="https://i.imgur.com/2q5YOG5.png" alt=""></p><p>こちらのタイトル画面では、時間で朝になったり夜になったりします。<br>
+　<br>
+　<br>
+GameStartを押すと<br>
+<img src="https://i.imgur.com/LI4sKfl.png" alt=""><br>
+こちらの画像のように魔法陣にタイトルロゴなどが吸い込まれるようになります。</p></div>
